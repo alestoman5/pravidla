@@ -1,0 +1,1820 @@
+[
+  {
+    "id": "vystroj-01",
+    "kategorie": "vystroj",
+    "obtiznost": "zacatecnik",
+    "text": "Jaké jsou oficiální rozměry kluziště podle pravidel IIHF?",
+    "moznosti": [
+      "60 × 26 až 30 m",
+      "56 × 24 až 28 m",
+      "61 × 30 m",
+      "58 × 28 m"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Oficiální rozměry hřiště jsou 60 m na délku a 26 až 30 m na šířku. Jakékoli odchylky vyžadují schválení IIHF.",
+    "pravidlo": "Pravidlo 1.2 – Rozměry"
+  },
+  {
+    "id": "vystroj-02",
+    "kategorie": "vystroj",
+    "obtiznost": "pokrocily",
+    "text": "Jakým poloměrem jsou zaobleny rohy kluziště?",
+    "moznosti": [
+      "7,0 až 8,5 m",
+      "5,0 až 7,0 m",
+      "8,0 až 9,5 m",
+      "6,0 až 7,5 m"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Rohy hřiště jsou zaobleny do kruhového oblouku o poloměru 7,0 až 8,5 m.",
+    "pravidlo": "Pravidlo 1.2 – Rozměry"
+  },
+  {
+    "id": "vystroj-03",
+    "kategorie": "vystroj",
+    "obtiznost": "zacatecnik",
+    "text": "Jaká je předepsaná výška mantinelu nad ledem?",
+    "moznosti": [
+      "1,07 m",
+      "0,90 m",
+      "1,20 m",
+      "1,15 m"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Ideální výška mantinelu nad úrovní povrchu ledu je 1,07 m.",
+    "pravidlo": "Pravidlo 1.3 – Mantinely a ochranné sklo"
+  },
+  {
+    "id": "vystroj-04",
+    "kategorie": "vystroj",
+    "obtiznost": "pokrocily",
+    "text": "Jak vysoké musí být ochranné sklo za brankami?",
+    "moznosti": [
+      "2,4 m",
+      "1,8 m",
+      "2,0 m",
+      "2,6 m"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Za brankami musí být ochranné sklo vysoké 2,4 m a musí pokračovat alespoň 4,0 m od brankové čáry směrem k modré čáře.",
+    "pravidlo": "Pravidlo 1.3 – Mantinely a ochranné sklo"
+  },
+  {
+    "id": "vystroj-05",
+    "kategorie": "vystroj",
+    "obtiznost": "zacatecnik",
+    "text": "Jak vysoké musí být ochranné sklo po stranách hřiště (mimo prostor hráčských lavic)?",
+    "moznosti": [
+      "1,8 m",
+      "2,4 m",
+      "1,5 m",
+      "2,0 m"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Po stranách hřiště musí být ochranné sklo vysoké 1,8 m, s výjimkou prostoru před hráčskými lavicemi.",
+    "pravidlo": "Pravidlo 1.3 – Mantinely a ochranné sklo"
+  },
+  {
+    "id": "vystroj-06",
+    "kategorie": "vystroj",
+    "obtiznost": "pokrocily",
+    "text": "Jak daleko od konce hřiště je vyznačena branková čára?",
+    "moznosti": [
+      "4 m",
+      "3 m",
+      "5 m",
+      "2,5 m"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Branková čára je vyznačena ve vzdálenosti 4 m od obou konců hřiště.",
+    "pravidlo": "Pravidlo 1.5 – Čáry"
+  },
+  {
+    "id": "vystroj-07",
+    "kategorie": "vystroj",
+    "obtiznost": "zacatecnik",
+    "text": "Jak široké jsou modré čáry a červená střední čára?",
+    "moznosti": [
+      "30 cm",
+      "20 cm",
+      "5 cm",
+      "15 cm"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Modré čáry i červená střední čára jsou široké 30 cm, na rozdíl od 5 cm široké brankové čáry.",
+    "pravidlo": "Pravidlo 1.5 – Čáry"
+  },
+  {
+    "id": "vystroj-08",
+    "kategorie": "vystroj",
+    "obtiznost": "pokrocily",
+    "text": "Jak široká je branková čára?",
+    "moznosti": [
+      "5 cm",
+      "10 cm",
+      "30 cm",
+      "15 cm"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Branková čára je široká 5 cm, na rozdíl od 30 cm širokých modrých a červené čáry.",
+    "pravidlo": "Pravidlo 1.5 – Čáry"
+  },
+  {
+    "id": "vystroj-09",
+    "kategorie": "vystroj",
+    "obtiznost": "expert",
+    "text": "Jaký je poloměr půlkruhu rozhodčích před boxem rozhodčích?",
+    "moznosti": [
+      "3,0 m",
+      "4,5 m",
+      "2,5 m",
+      "3,5 m"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Půlkruh rozhodčích je vyznačen červenou čárou o poloměru 3,0 m.",
+    "pravidlo": "Pravidlo 1.7 – Brankoviště a půlkruh rozhodčích"
+  },
+  {
+    "id": "vystroj-10",
+    "kategorie": "vystroj",
+    "obtiznost": "expert",
+    "text": "Jaké jsou vnější rozměry brankářského lichoběžníku (trapezu)?",
+    "moznosti": [
+      "6,78 m na brankové čáře a 8,64 m u mantinelu",
+      "6,00 m na brankové čáře a 8,00 m u mantinelu",
+      "7,00 m na brankové čáře a 9,00 m u mantinelu",
+      "6,78 m na brankové čáře a 9,00 m u mantinelu"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Brankářský lichoběžník za brankou má vnější rozměry 6,78 m na brankové čáře a 8,64 m u mantinelu.",
+    "pravidlo": "Pravidlo 1.8 – Brankářský lichoběžník"
+  },
+  {
+    "id": "vystroj-11",
+    "kategorie": "vystroj",
+    "obtiznost": "pokrocily",
+    "text": "Jaký je poloměr kruhu se středem ve středovém bodě pro vhazování?",
+    "moznosti": [
+      "4,50 m",
+      "3,00 m",
+      "5,00 m",
+      "4,00 m"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Kolem středového bodu pro vhazování je modrou čárou vyznačena kružnice o poloměru 4,50 m.",
+    "pravidlo": "Pravidlo 1.9 – Body a kruhy pro vhazování"
+  },
+  {
+    "id": "vystroj-12",
+    "kategorie": "vystroj",
+    "obtiznost": "zacatecnik",
+    "text": "Jaké jsou rozměry a hmotnost puku?",
+    "moznosti": [
+      "výška 2,54 cm, průměr 7,62 cm, hmotnost 156–170 g",
+      "výška 2,5 cm, průměr 7,0 cm, hmotnost 150–160 g",
+      "výška 3,0 cm, průměr 7,62 cm, hmotnost 160–180 g",
+      "výška 2,54 cm, průměr 8,0 cm, hmotnost 156–170 g"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Puk je vysoký 2,5 cm (přesně 2,54 cm), má průměr 7,6 cm (přesně 7,62 cm) a váží mezi 156 a 170 g.",
+    "pravidlo": "Pravidlo 13.1 – Rozměry puku"
+  },
+  {
+    "id": "vystroj-13",
+    "kategorie": "vystroj",
+    "obtiznost": "zacatecnik",
+    "text": "Jaká je maximální povolená délka rukojeti hráčské hole?",
+    "moznosti": [
+      "163 cm",
+      "153 cm",
+      "158 cm",
+      "168 cm"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Rukojeť hráčské hole smí měřit maximálně 163 cm.",
+    "pravidlo": "Příloha III – Výstroj pro lední hokej (Pravidlo 10)"
+  },
+  {
+    "id": "vystroj-14",
+    "kategorie": "vystroj",
+    "obtiznost": "pokrocily",
+    "text": "Jaký je povolený rozsah výšky (šířky) čepele hráčské hole?",
+    "moznosti": [
+      "min. 5,0 cm, max. 7,6 cm",
+      "min. 4,0 cm, max. 6,5 cm",
+      "min. 5,5 cm, max. 8,0 cm",
+      "min. 5,0 cm, max. 9,0 cm"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Výška (šířka) čepele hráčské hole musí být minimálně 5,0 cm a maximálně 7,6 cm.",
+    "pravidlo": "Příloha III – Výstroj pro lední hokej (Pravidlo 10)"
+  },
+  {
+    "id": "vystroj-15",
+    "kategorie": "vystroj",
+    "obtiznost": "expert",
+    "text": "Jak silná musí být minimálně měkká vnější vrstva chráničů loktů?",
+    "moznosti": [
+      "alespoň 1,3 cm",
+      "alespoň 0,5 cm",
+      "alespoň 2,0 cm",
+      "alespoň 1,0 cm"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Chrániče loktů, které nemají měkkou ochrannou vnější vrstvu o tloušťce alespoň 1,3 cm, jsou považovány za nebezpečnou výstroj.",
+    "pravidlo": "Pravidlo 12.3 – Chrániče loktů"
+  },
+  {
+    "id": "vystroj-16",
+    "kategorie": "vystroj",
+    "obtiznost": "pokrocily",
+    "text": "Hráč hraje s rukavicí, ze které byla odstraněna dlaň, aby mohl holou rukou lépe držet hůl. Jak se taková rukavice posuzuje?",
+    "moznosti": [
+      "Jako nedovolená výstroj – uloží se menší trest",
+      "Je to povoleno bez postihu",
+      "Hráč dostane pouze varování",
+      "Hráč musí opustit hřiště bez náhrady"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Rukavice, ze které byla celá nebo její část odstraněna či odstřižena za účelem hraní holou rukou, je nedovolenou výstrojí a ukládá se za ni menší trest.",
+    "pravidlo": "Pravidlo 12.2 – Rukavice"
+  },
+  {
+    "id": "tymy-01",
+    "kategorie": "tymy",
+    "obtiznost": "zacatecnik",
+    "text": "Kolik hráčů smí mít tým zapsáno jako kapitán a zástupce kapitána?",
+    "moznosti": [
+      "Pouze jednoho kapitána a nejvýše dva zástupce kapitána",
+      "Jednoho kapitána a jednoho zástupce",
+      "Dva kapitány",
+      "Kapitána a libovolný počet zástupců"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Tým jmenuje jednoho kapitána a nejvýše dva zástupce kapitána. Spolukapitáni nejsou dovoleni.",
+    "pravidlo": "Pravidlo 6.1 – Kapitán"
+  },
+  {
+    "id": "tymy-02",
+    "kategorie": "tymy",
+    "obtiznost": "pokrocily",
+    "text": "Kdo smí s hlavním rozhodčím projednávat výklad pravidel, pokud jsou na ledě současně kapitán i zástupce kapitána?",
+    "moznosti": [
+      "Pouze kapitán",
+      "Kapitán nebo kterýkoli hráč na ledě",
+      "Pouze trenér",
+      "Kdokoli z týmu podle vlastní volby"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Právo projednat s hlavním rozhodčím otázky výkladu pravidel má výhradně kapitán; je-li na ledě i zástupce, mluvit smí pouze kapitán.",
+    "pravidlo": "Pravidlo 6.1 – Kapitán"
+  },
+  {
+    "id": "tymy-03",
+    "kategorie": "tymy",
+    "obtiznost": "expert",
+    "text": "Smí funkci kapitána nebo zástupce kapitána vykonávat hrající trenér, hrající vedoucí týmu nebo brankář?",
+    "moznosti": [
+      "Ne, nikdy",
+      "Ano, pokud tým souhlasí",
+      "Ano, ale pouze brankář",
+      "Ano, ale pouze hrající trenér"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Hrající trenér, hrající vedoucí týmu ani brankář nesmí vykonávat funkci kapitána ani zástupce kapitána.",
+    "pravidlo": "Pravidlo 6.1 – Kapitán"
+  },
+  {
+    "id": "tymy-04",
+    "kategorie": "tymy",
+    "obtiznost": "expert",
+    "text": "Jak vysoké musí být písmeno „C“ na dresu kapitána?",
+    "moznosti": [
+      "přibližně 8 cm",
+      "přibližně 5 cm",
+      "přibližně 10 cm",
+      "přibližně 12 cm"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Kapitán nosí písmeno „C“ vysoké přibližně 8 cm v kontrastní barvě na dobře viditelném místě na přední části dresu.",
+    "pravidlo": "Pravidlo 6.1 – Kapitán"
+  },
+  {
+    "id": "tymy-05",
+    "kategorie": "tymy",
+    "obtiznost": "pokrocily",
+    "text": "Jak musí opustit led zraněný hráč, který se rozhodne odstoupit z utkání a být vystřídán?",
+    "moznosti": [
+      "Přes prostor hráčské lavice, jinak se uloží menší trest pro hráčskou lavici",
+      "Kterýmkoli východem z hřiště",
+      "Pouze se svolením hlavního rozhodčího",
+      "Přes trestnou lavici"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Zraněný hráč musí odejít z ledu v prostoru hráčské lavice; jiné opuštění hřiště je nedovolené střídání a trestá se menším trestem pro hráčskou lavici.",
+    "pravidlo": "Pravidlo 8.1 – Zranění hráči"
+  },
+  {
+    "id": "tymy-06",
+    "kategorie": "tymy",
+    "obtiznost": "expert",
+    "text": "Hráč, kterému je uložen trest, se během jeho odpykávání zraní natolik, že nemůže pokračovat na trestné lavici. Jak se postupuje?",
+    "moznosti": [
+      "Zraněný hráč může odejít do šatny a jeho tým na trestnou lavici okamžitě pošle náhradníka, který trest odpyká",
+      "Trest automaticky zaniká",
+      "Tým musí hrát bez náhradníka až do konce trestu",
+      "Trest odpyká libovolný hráč na ledě podle výběru trenéra"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Zraněný potrestaný hráč smí odejít do šatny bez nutnosti dosednout na trestnou lavici; jeho tým okamžitě pošle na trestnou lavici náhradníka, který trest odpyká.",
+    "pravidlo": "Pravidlo 8.1 – Zranění hráči"
+  },
+  {
+    "id": "tymy-07",
+    "kategorie": "tymy",
+    "obtiznost": "pokrocily",
+    "text": "Hráč leží na ledě, předstírá zranění a odmítá vstát. Jaký trest mu hrozí?",
+    "moznosti": [
+      "Menší trest",
+      "Větší trest",
+      "Osobní trest",
+      "Žádný, simulování není v pravidlech postihováno"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Hráči, který leží na ledě a předstírá zranění nebo odmítá vstát, se uloží menší trest.",
+    "pravidlo": "Pravidlo 8.1 – Zranění hráči"
+  },
+  {
+    "id": "tymy-08",
+    "kategorie": "tymy",
+    "obtiznost": "pokrocily",
+    "text": "Co musí nastat, pokud se brankář během utkání zraní nebo je mu nevolno?",
+    "moznosti": [
+      "Musí být buď schopen ihned pokračovat, nebo být vystřídán náhradním brankářem, bez nároku na čas navíc",
+      "Dostane na zotavení maximálně 5 minut navíc",
+      "Musí být automaticky vystřídán, i kdyby mohl pokračovat",
+      "Musí utkání opustit bez možnosti návratu"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Zraněný nebo nevolný brankář musí být buď schopen okamžitě pokračovat, nebo je vystřídán náhradním brankářem; žádný čas navíc se neposkytuje.",
+    "pravidlo": "Pravidlo 8.2 – Zranění brankáři"
+  },
+  {
+    "id": "tymy-09",
+    "kategorie": "tymy",
+    "obtiznost": "expert",
+    "text": "Smí mít tým v zápise o utkání zapsaného i třetího brankáře?",
+    "moznosti": [
+      "Ano, je to povoleno",
+      "Ne, maximální počet jsou dva brankáři",
+      "Ano, ale jen ve finálových utkáních",
+      "Ne, pravidla třetího brankáře neznají"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Standardně smí být zapsán jeden brankář, ale je povoleno mít zapsaného i třetího brankáře.",
+    "pravidlo": "Pravidlo 5.3 – Brankáři"
+  },
+  {
+    "id": "tymy-10",
+    "kategorie": "tymy",
+    "obtiznost": "zacatecnik",
+    "text": "Co musí hráči nosit během předzápasového rozbruslení?",
+    "moznosti": [
+      "Kompletní ochrannou výstroj řádným způsobem",
+      "Pouze helmu",
+      "Výstroj není při rozbruslení povinná",
+      "Pouze rukavice a helmu"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Během předzápasového rozbruslení musí hráči správným způsobem nosit veškerou ochrannou výstroj, včetně helmy.",
+    "pravidlo": "Pravidlo 65.1 – Výstroj"
+  },
+  {
+    "id": "tresty-01",
+    "kategorie": "tresty",
+    "obtiznost": "zacatecnik",
+    "text": "Jak dlouho trvá menší trest?",
+    "moznosti": [
+      "2 minuty",
+      "4 minuty",
+      "5 minut",
+      "10 minut"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Menší trest trvá 2 minuty.",
+    "pravidlo": "Pravidlo 16 – Menší tresty"
+  },
+  {
+    "id": "tresty-02",
+    "kategorie": "tresty",
+    "obtiznost": "zacatecnik",
+    "text": "Jak dlouho trvá dvojitý menší trest?",
+    "moznosti": [
+      "4 minuty (2× 2 minuty)",
+      "2 minuty",
+      "5 minut",
+      "6 minut"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Dvojitý menší trest trvá 4 minuty, odpykávané jako dva po sobě jdoucí dvouminutové tresty.",
+    "pravidlo": "Pravidlo 18 – Dvojité menší tresty"
+  },
+  {
+    "id": "tresty-03",
+    "kategorie": "tresty",
+    "obtiznost": "zacatecnik",
+    "text": "Jak dlouho trvá větší trest?",
+    "moznosti": [
+      "5 minut",
+      "2 minuty",
+      "10 minut",
+      "7 minut"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Větší trest trvá 5 minut.",
+    "pravidlo": "Pravidlo 20 – Větší tresty"
+  },
+  {
+    "id": "tresty-04",
+    "kategorie": "tresty",
+    "obtiznost": "pokrocily",
+    "text": "Kolik trestných minut se zapisuje do záznamu o utkání za osobní trest do konce utkání?",
+    "moznosti": [
+      "20 minut",
+      "10 minut",
+      "25 minut",
+      "5 minut"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Hráči, kterému byl uložen osobní trest do konce utkání, je do záznamu zapsáno dvacet trestných minut.",
+    "pravidlo": "Pravidlo 23.1 – Osobní trest do konce utkání"
+  },
+  {
+    "id": "tresty-05",
+    "kategorie": "tresty",
+    "obtiznost": "pokrocily",
+    "text": "Kdo odpykává osobní trest uložený brankáři?",
+    "moznosti": [
+      "Jiný hráč jeho týmu, který byl na ledě v okamžiku přerušení hry a kterého určí trenér prostřednictvím kapitána",
+      "Sám brankář musí opustit branku na 10 minut",
+      "Kapitán týmu automaticky",
+      "Trest se neodpykává, pouze se eviduje"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Pokud je brankáři uložen osobní trest, odpyká jej jiný hráč jeho týmu, který byl na ledě v okamžiku přerušení hry a kterého určí trenér prostřednictvím kapitána.",
+    "pravidlo": "Pravidlo 22.2 – Osobní trest – brankář"
+  },
+  {
+    "id": "tresty-06",
+    "kategorie": "tresty",
+    "obtiznost": "expert",
+    "text": "Hráči je ve stejný okamžik uložen menší trest i osobní trest. Jak se postupuje?",
+    "moznosti": [
+      "Tým okamžitě pošle na trestnou lavici náhradníka, který odpyká menší trest; osobní trest začíná běžet, jakmile menší trest skončí",
+      "Oba tresty odpykává potrestaný hráč souběžně",
+      "Tým hraje v oslabení po celou dobu obou trestů bez náhradníka",
+      "Osobní trest se ruší, platí jen menší trest"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Provinivší se tým okamžitě pošle na trestnou lavici náhradníka, který odpyká menší trest; osobní trest začne běžet ihned po skončení menšího trestu.",
+    "pravidlo": "Pravidlo 22.3 – Osobní trest – hra v oslabení"
+  },
+  {
+    "id": "tresty-07",
+    "kategorie": "tresty",
+    "obtiznost": "pokrocily",
+    "text": "Kolikátý osobní trest ve stejném utkání znamená pro hráče automatický osobní trest do konce utkání?",
+    "moznosti": [
+      "Druhý osobní trest",
+      "Třetí osobní trest",
+      "První osobní trest",
+      "Osobní trest do konce utkání se automaticky neuděluje"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Pokud je stejnému hráči v utkání uložen druhý osobní trest, automaticky se mu uloží osobní trest do konce utkání.",
+    "pravidlo": "Pravidlo 22.1 – Osobní trest"
+  },
+  {
+    "id": "tresty-08",
+    "kategorie": "tresty",
+    "obtiznost": "expert",
+    "text": "Jaký trest lze podle pravidel uložit za držení protihráče (bez dalšího přitěžujícího jednání)?",
+    "moznosti": [
+      "Pouze menší trest",
+      "Menší trest nebo větší trest s osobním trestem do konce utkání",
+      "Pouze osobní trest",
+      "Pouze větší trest"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Pravidlo o držení popisuje pouze menší trest – na rozdíl například od háčkování zde není definována varianta s větším trestem.",
+    "pravidlo": "Pravidlo 54.2 – Držení"
+  },
+  {
+    "id": "tresty-09",
+    "kategorie": "tresty",
+    "obtiznost": "pokrocily",
+    "text": "Za háčkování, kterým hráč bezohledně ohrozí soupeře natolik, že menší trest by nebyl dostatečným postihem, lze kromě menšího trestu uložit také:",
+    "moznosti": [
+      "větší trest a automatický osobní trest do konce utkání",
+      "dvojitý menší trest",
+      "trest ve hře",
+      "žádný další trest, pouze menší trest"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Hlavní rozhodčí může na základě posouzení uložit za háčkování větší trest a automatický osobní trest do konce utkání.",
+    "pravidlo": "Pravidlo 55.3 – Háčkování"
+  },
+  {
+    "id": "tresty-10",
+    "kategorie": "tresty",
+    "obtiznost": "expert",
+    "text": "Co platí pro naražení zezadu (checking from behind)?",
+    "moznosti": [
+      "Nelze za něj uložit menší trest – vždy jde o větší trest, případně větší trest s osobním trestem do konce utkání",
+      "Vždy se uloží pouze menší trest",
+      "Trest závisí výhradně na tom, zda došlo ke zranění",
+      "Je to totéž jako vražení na mantinel a tresty jsou identické"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Naražení zezadu je považováno za závažný a nebezpečný faul, proto za něj není možné uložit menší trest.",
+    "pravidlo": "Pravidlo 43.2 – Naražení zezadu"
+  },
+  {
+    "id": "tresty-11",
+    "kategorie": "tresty",
+    "obtiznost": "pokrocily",
+    "text": "Jaký trest se ukládá za pokus o bodnutí špičkou hole, i pokud ke kontaktu nedojde?",
+    "moznosti": [
+      "Dvojitý menší trest",
+      "Menší trest",
+      "Větší trest a osobní trest do konce utkání",
+      "Žádný trest, pokud nedošlo ke kontaktu"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Za pokus o bodnutí špičkou hole se ukládá dvojitý menší trest, bez ohledu na to, zda ke kontaktu skutečně došlo.",
+    "pravidlo": "Pravidlo 62.2 – Bodnutí špičkou hole"
+  },
+  {
+    "id": "tresty-12",
+    "kategorie": "tresty",
+    "obtiznost": "expert",
+    "text": "Pokud bodnutí špičkou hole skutečně zasáhne soupeře, hlavní rozhodčí uloží:",
+    "moznosti": [
+      "větší trest a automatický osobní trest do konce utkání (povinně)",
+      "menší trest",
+      "dvojitý menší trest",
+      "trest podle uvážení – může, ale nemusí uložit větší trest"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Za skutečné bodnutí špičkou hole uloží hlavní rozhodčí povinně větší trest a automatický osobní trest do konce utkání.",
+    "pravidlo": "Pravidlo 62.3 – Bodnutí špičkou hole"
+  },
+  {
+    "id": "tresty-13",
+    "kategorie": "tresty",
+    "obtiznost": "pokrocily",
+    "text": "Hráč zasáhne soupeře holí nad úrovní ramen a způsobí mu tím zranění. Jaký trest se uloží?",
+    "moznosti": [
+      "Dvojitý menší trest",
+      "Menší trest",
+      "Větší trest a osobní trest do konce utkání vždy automaticky",
+      "Trestné střílení bez trestu na lavici"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Pokud hráč drží nebo nese hůl nad rameny a zasáhne krk, obličej nebo hlavu protihráče se zraněním, uloží se dvojitý menší trest.",
+    "pravidlo": "Pravidlo 60.3 – Vysoká hůl"
+  },
+  {
+    "id": "tresty-14",
+    "kategorie": "tresty",
+    "obtiznost": "expert",
+    "text": "Oběma týmům jsou ve stejném přerušení hry uloženy souběžné menší tresty ve stejném počtu. Jak se změní počet hráčů na ledě?",
+    "moznosti": [
+      "Počet hráčů na ledě se nemění, oba týmy hrají dál v plném počtu",
+      "Oba týmy hrají v oslabení",
+      "Vhazuje se trestné střílení",
+      "Tresty se navzájem ruší a neodpykávají se"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Pokud je oběma týmům uložen stejný počet souběžných menších trestů stejné délky, počet hráčů na ledě se nemění.",
+    "pravidlo": "Pravidlo 19.1 – Souběžné menší tresty"
+  },
+  {
+    "id": "tresty-15",
+    "kategorie": "tresty",
+    "obtiznost": "zacatecnik",
+    "text": "Co se stane, když má tým uložen menší trest a soupeř v době jeho odpykávání vstřelí gól (za obvyklých okolností)?",
+    "moznosti": [
+      "Menší trest okamžitě končí",
+      "Menší trest pokračuje beze změny",
+      "Menší trest se prodlouží o 2 minuty",
+      "Trest se mění na osobní trest"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Vstřelí-li tým hrající v přesilové hře gól v době odpykávání menšího trestu soupeře, menší trest končí (s výjimkami podle pravidla o oslabení).",
+    "pravidlo": "Pravidlo 16 – Menší tresty"
+  },
+  {
+    "id": "tresty-16",
+    "kategorie": "tresty",
+    "obtiznost": "pokrocily",
+    "text": "Družstvo, které má být potrestáno menším trestem, ale předtím než rozhodčí přeruší hru, vstřelí branku. Co se s trestem stane?",
+    "moznosti": [
+      "Menší trest se neuloží (větší trest se ale ukládá vždy, bez ohledu na gól)",
+      "Menší trest se uloží stejně, jako by gól nepadl",
+      "Menší trest se změní na dvojitý menší trest",
+      "Trest se uloží až v příští přestávce"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Má-li být uložen menší trest a neprovinivší se tým vstřelí gól dřív, než je hra přerušena, menší trest se neuloží; větší trest se uloží běžným způsobem bez ohledu na gól.",
+    "pravidlo": "Pravidlo 15.2 – Ukládání menšího trestu – vstřelení gólu"
+  },
+  {
+    "id": "ofsajd-01",
+    "kategorie": "ofsajd",
+    "obtiznost": "zacatecnik",
+    "text": "Kdy nastane zakázané uvolnění?",
+    "moznosti": [
+      "Pokud hráč týmu hrajícího ve stejném nebo vyšším počtu hráčů vystřelí, odpálí nebo odrazí puk ze své poloviny hřiště za brankovou čáru soupeře",
+      "Pokud totéž udělá tým hrající v oslabení",
+      "Vždy, když puk přejde přes celé hřiště",
+      "Kdykoli, bez ohledu na početní stav týmů"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Zakázané uvolnění nastává, pokud hráč týmu, který má na ledě stejný nebo vyšší počet hráčů než soupeř, zahraje puk ze své poloviny hřiště za brankovou čáru soupeře.",
+    "pravidlo": "Pravidlo 81.1 – Zakázané uvolnění"
+  },
+  {
+    "id": "ofsajd-02",
+    "kategorie": "ofsajd",
+    "obtiznost": "pokrocily",
+    "text": "Tým hrající v oslabení vystřelí puk ze své poloviny hřiště přes celé kluziště za brankovou čáru soupeře. Bude odpískáno zakázané uvolnění?",
+    "moznosti": [
+      "Ne, tým hrající v oslabení se zakázaného uvolnění dopustit nemůže",
+      "Ano, vždy",
+      "Ano, ale jen pokud je oslabení o dva hráče",
+      "Záleží na rozhodnutí čárového rozhodčího bez jasného pravidla"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Vystřelí-li puk hráč týmu hrajícího v oslabení oproti soupeři, hra pokračuje a zakázané uvolnění se neodpíská.",
+    "pravidlo": "Pravidlo 81.6 – Zakázané uvolnění – počet hráčů na ledě"
+  },
+  {
+    "id": "ofsajd-03",
+    "kategorie": "ofsajd",
+    "obtiznost": "expert",
+    "text": "Co rozhoduje o tom, zda došlo k zakázanému uvolnění, pokud dráha puku vede k brankové čáře?",
+    "moznosti": [
+      "Pozice hráčových bruslí v okamžiku, kdy první hráč dosáhne úrovně bodu pro vhazování v koncovém pásmu",
+      "Kdo byl blíž brance v okamžiku výstřelu",
+      "Rychlost puku",
+      "Pouze rozhodnutí hlavního rozhodčího bez ohledu na pozici hráčů"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Čárový rozhodčí rozhoduje, který hráč by se dotkl puku jako první, přičemž toto rozhodnutí musí učinit nejpozději v okamžiku, kdy první hráč dosáhne úrovně bodu pro vhazování v koncovém pásmu.",
+    "pravidlo": "Pravidlo 81.1 – Zakázané uvolnění"
+  },
+  {
+    "id": "ofsajd-04",
+    "kategorie": "ofsajd",
+    "obtiznost": "pokrocily",
+    "text": "Brankář se snaží dostat na střídačku, aby byl vystřídán dalším útočícím hráčem, a nijak se nesnaží puk hrát. Puk mezitím přejde brankovou čáru. Bude odpískáno zakázané uvolnění?",
+    "moznosti": [
+      "Ano, bude odpískáno",
+      "Ne, protože se jedná o brankáře",
+      "Ne, pokud tým prohrává",
+      "Záleží na tom, kolik zbývá času do konce třetiny"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Pokud se brankář nachází mimo brankoviště ve snaze dostat se na hráčskou lavici a nijak se nesnaží hrát puk, zakázané uvolnění bude odpískáno.",
+    "pravidlo": "Pravidlo 81.3 – Zakázané uvolnění – brankář"
+  },
+  {
+    "id": "ofsajd-05",
+    "kategorie": "ofsajd",
+    "obtiznost": "pokrocily",
+    "text": "Brankář naznačí, že bude hrát puk, a rozjede se za ním, i když jinak stojí mimo brankoviště. Bude odpískáno zakázané uvolnění?",
+    "moznosti": [
+      "Ne, zakázané uvolnění nebude odpískáno, hra pokračuje",
+      "Ano, bude odpískáno vždy",
+      "Ano, ale jen pokud puk skutečně nehraje",
+      "Záleží na tom, kolik zbývá času do konce třetiny"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Pokud brankář naznačí, že bude hrát puk, pokusí se jej hrát nebo se za ním rozjede, zakázané uvolnění nebude odpískáno.",
+    "pravidlo": "Pravidlo 81.3 – Zakázané uvolnění – brankář"
+  },
+  {
+    "id": "ofsajd-06",
+    "kategorie": "ofsajd",
+    "obtiznost": "pokrocily",
+    "text": "Smí provinivší se tým provést střídání před vhazováním, které následuje po zakázaném uvolnění?",
+    "moznosti": [
+      "Ne, s výjimkami (zraněný hráč, zlomená hůl, brankář, trest ovlivňující počet hráčů na ledě)",
+      "Ano, bez omezení",
+      "Ano, ale jen jeden hráč",
+      "Ne, ani v žádném případě"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Týmu, který se provinil zakázaným uvolněním, není dovoleno před následujícím vhazováním provést střídání, s výjimkou nahrazení brankáře, zraněného hráče, hráče se zlomenou bruslí nebo v důsledku uloženého trestu.",
+    "pravidlo": "Pravidlo 81.4 – Střídání po zakázaném uvolnění"
+  },
+  {
+    "id": "ofsajd-07",
+    "kategorie": "ofsajd",
+    "obtiznost": "expert",
+    "text": "Puk vystřelený týmem z jeho poloviny hřiště se odrazí od soupeřova hráče a poté přejde brankovou čáru. Je to zakázané uvolnění?",
+    "moznosti": [
+      "Ne, dotkne-li se puk po výstřelu soupeře, nejde o zakázané uvolnění",
+      "Ano, vždy",
+      "Záleží pouze na tom, kdo puk získá jako první",
+      "Ano, pokud se to stane ve třetí třetině"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Pokud se puk odrazí od těla nebo hole protihráče (na jeho vlastní polovině) a poté přejde brankovou čáru hráče, který jej vystřelil, nejedná se o zakázané uvolnění.",
+    "pravidlo": "Pravidlo 81.5 – Zrušení zakázaného uvolnění"
+  },
+  {
+    "id": "ofsajd-08",
+    "kategorie": "ofsajd",
+    "obtiznost": "pokrocily",
+    "text": "Kdy nemůže dojít k zakázanému uvolnění, přestože puk přejde brankovou čáru soupeře?",
+    "moznosti": [
+      "Pokud puk přejde brankovou čáru přímo z vhazování",
+      "Pokud puk letí nad ledem více než 2 metry",
+      "Pokud jde o poslední dvě minuty třetiny",
+      "Nikdy, s vhazováním to nesouvisí"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Pokud puk přejde přes brankovou čáru na protější polovině hřiště přímo z vhazování, není to považováno za zakázané uvolnění.",
+    "pravidlo": "Pravidlo 81.5 – Zrušení zakázaného uvolnění"
+  },
+  {
+    "id": "ofsajd-09",
+    "kategorie": "ofsajd",
+    "obtiznost": "zacatecnik",
+    "text": "Hráč je v „mimo hru“ (ofsajdu), pokud je v okamžiku, kdy puk zcela přejde vzdálenější hranu modré čáry:",
+    "moznosti": [
+      "oběma bruslemi zcela za vzdálenější hranou modré čáry v útočném pásmu",
+      "alespoň jednou bruslí za modrou čárou",
+      "na modré čáře jakoukoli částí těla",
+      "kdykoli před pukem, bez ohledu na brusle"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Hráč je „mimo hru“, pokud je oběma bruslemi zcela za vzdálenější hranou modré čáry v okamžiku, kdy puk zcela přešel tuto hranu.",
+    "pravidlo": "Pravidlo 83.1 – Ofsajd"
+  },
+  {
+    "id": "ofsajd-10",
+    "kategorie": "ofsajd",
+    "obtiznost": "zacatecnik",
+    "text": "Při posuzování ofsajdu rozhoduje pozice:",
+    "moznosti": [
+      "hráčových bruslí, nikoli hole",
+      "hráčovy hole",
+      "těžiště hráčova těla",
+      "brusle nebo hole, podle toho, co je blíž"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Ve všech případech při posuzování postavení hráče rozhoduje pozice hráčových bruslí, a nikoli pozice jeho hole.",
+    "pravidlo": "Pravidlo 83.1 – Ofsajd"
+  },
+  {
+    "id": "ofsajd-11",
+    "kategorie": "ofsajd",
+    "obtiznost": "expert",
+    "text": "Hráč získá puk do držení a pod kontrolu ještě předtím, než jeho brusle překonají vzdálenější hranu modré čáry do útočného pásma. Je v ofsajdu?",
+    "moznosti": [
+      "Ne, i kdyby tělem překonal čáru dříve než puk",
+      "Ano, vždy",
+      "Ano, pouze pokud je to v přesilové hře",
+      "Záleží na rozhodnutí čárového rozhodčího bez jasného pravidla"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Hráč, který má puk pod kontrolou a překoná hranici modré čáry dříve než puk, se nepovažuje za hráče „mimo hru“, pokud puk získal do držení a pod kontrolu dříve, než jeho brusle překonaly vzdálenější hranu modré čáry.",
+    "pravidlo": "Pravidlo 83.1 – Ofsajd"
+  },
+  {
+    "id": "ofsajd-12",
+    "kategorie": "ofsajd",
+    "obtiznost": "pokrocily",
+    "text": "Co se stane, pokud útočící tým vystřelí puk do útočného pásma za stavu „ofsajdové výhody“ a puk skončí v brance soupeře?",
+    "moznosti": [
+      "Gól neplatí, protože jej způsobila střela při ofsajdu",
+      "Gól platí vždy",
+      "Gól platí, pokud útočníci mezitím vyklidili pásmo",
+      "Nastane trestné střílení"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Vnikne-li puk v důsledku takové střely do branky bránícího týmu, gól nebude uznán, jelikož původní střela způsobila ofsajd – a to i pokud útočící tým mezitím pásmo vyklidil.",
+    "pravidlo": "Pravidlo 83.4 – Ofsajd – neuznaný gól"
+  },
+  {
+    "id": "ofsajd-13",
+    "kategorie": "ofsajd",
+    "obtiznost": "zacatecnik",
+    "text": "Co znamená „úmyslný ofsajd“?",
+    "moznosti": [
+      "Ofsajd, jehož účelem je vynutit si přerušení hry, bez ohledu na to, zda nějaký tým hraje v oslabení",
+      "Jakýkoli druhý ofsajd v utkání",
+      "Ofsajd způsobený brankářem",
+      "Ofsajd, kde je hráč více než 5 m za modrou čárou"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Za úmyslný ofsajd se považuje takový ofsajd, jehož účelem je vynucení si přerušení hry, bez ohledu na to, zda hraje jakýkoli tým v oslabení.",
+    "pravidlo": "Pravidlo 83.7 – Úmyslný ofsajd"
+  },
+  {
+    "id": "ofsajd-14",
+    "kategorie": "ofsajd",
+    "obtiznost": "pokrocily",
+    "text": "Kam se vhazuje po úmyslném ofsajdu?",
+    "moznosti": [
+      "Na bod pro vhazování v obranném pásmu provinivšího se týmu",
+      "Ve středu hřiště",
+      "Na modré čáře, kde k ofsajdu došlo",
+      "Na bodu, který si vybere neprovinivší se tým"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Při úmyslném ofsajdu se následné vhazování provede na bodu pro vhazování v obranném pásmu provinivšího se týmu.",
+    "pravidlo": "Pravidlo 83.6 (IV) – Ofsajd – místo vhazování"
+  },
+  {
+    "id": "vhazovani-01",
+    "kategorie": "vhazovani",
+    "obtiznost": "zacatecnik",
+    "text": "Kdo se nesmí účastnit vhazování?",
+    "moznosti": [
+      "Brankář",
+      "Kapitán",
+      "Obránci",
+      "Náhradníci"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Brankář se vhazování účastnit nesmí.",
+    "pravidlo": "Pravidlo 76.1 – Vhazování"
+  },
+  {
+    "id": "vhazovani-02",
+    "kategorie": "vhazovani",
+    "obtiznost": "zacatecnik",
+    "text": "Na kolika bodech pro vhazování na hřišti se smí provádět vhazování?",
+    "moznosti": [
+      "Na devíti",
+      "Na pěti",
+      "Na sedmi",
+      "Na jedenácti"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Veškerá vhazování musí být prováděna na jednom z devíti bodů pro vhazování na hřišti.",
+    "pravidlo": "Pravidlo 76.2 – Místo vhazování"
+  },
+  {
+    "id": "vhazovani-03",
+    "kategorie": "vhazovani",
+    "obtiznost": "expert",
+    "text": "V jaké minimální vzdálenosti od branky nebo postranního mantinelu se nesmí provádět žádné vhazování?",
+    "moznosti": [
+      "4,50 m",
+      "3,00 m",
+      "5,00 m",
+      "2,50 m"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Žádné vhazování se nesmí provést ve vzdálenosti kratší než 4,50 m od branky nebo postranního mantinelu, ani kdekoliv jinde než na bodu pro vhazování.",
+    "pravidlo": "Pravidlo 76.2 – Místo vhazování"
+  },
+  {
+    "id": "vhazovani-04",
+    "kategorie": "vhazovani",
+    "obtiznost": "pokrocily",
+    "text": "Kolik sekund mají hráči na zaujetí pozice po zapísknutí čárového rozhodčího k vhazování?",
+    "moznosti": [
+      "Nejvýše 5 sekund",
+      "Nejvýše 10 sekund",
+      "Nejvýše 3 sekundy",
+      "Časový limit není stanoven"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Čárový rozhodčí signalizuje, že mají hráči nejvýše pět sekund k zaujetí pozice pro vhazování, poté (nebo dříve, jsou-li centři připraveni) provede vhození puku.",
+    "pravidlo": "Pravidlo 76.3 – Postup vhazování"
+  },
+  {
+    "id": "vhazovani-05",
+    "kategorie": "vhazovani",
+    "obtiznost": "expert",
+    "text": "Na kterém z devíti bodů pro vhazování pokládá hůl na led jako první útočící hráč, a nikoli bránící?",
+    "moznosti": [
+      "Pouze na bodu ve středu hřiště",
+      "Na všech bodech kromě středového",
+      "Na obou bodech v obranném pásmu",
+      "Na žádném, vždy je první bránící hráč"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Na osmi bodech pro vhazování (kromě bodu ve středu hřiště) položí hůl jako první bránící hráč a útočící hráč jej okamžitě následuje. Při vhazování ve středu hřiště položí hůl na led jako první hostující hráč.",
+    "pravidlo": "Pravidlo 76.4 – Postup vhazování – centři"
+  },
+  {
+    "id": "vhazovani-06",
+    "kategorie": "vhazovani",
+    "obtiznost": "pokrocily",
+    "text": "Centr při vhazování opakovaně couvá od bodu pro vhazování a odmítá do oblasti přijet, dokud nevyprší pětisekundová lhůta. Jak čárový rozhodčí postupuje?",
+    "moznosti": [
+      "Varuje centra za porušení postupu vhazování a puk vhodí, i když hráč není připraven",
+      "Vhazování se automaticky opakuje bez postihu",
+      "Přeruší hru na neurčito, dokud hráč nepřijede",
+      "Uloží rovnou menší trest pro hráčskou lavici"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Pokud centr couvá od bodu pro vhazování a odmítá do oblasti přijet, čárový rozhodčí jej varuje za porušení postupu vhazování a puk vhodí, i kdyby hráč nebyl připraven.",
+    "pravidlo": "Pravidlo 76.4 – Postup vhazování – centři"
+  },
+  {
+    "id": "vhazovani-07",
+    "kategorie": "vhazovani",
+    "obtiznost": "pokrocily",
+    "text": "Co následuje, pokud se stejný hráč dopustí druhého porušení postupu vhazování ve stejném vhazování?",
+    "moznosti": [
+      "Menší trest pro hráčskou lavici",
+      "Menší trest přímo centrovi bez souvislosti s lavicí",
+      "Vyloučení z dalších vhazování v utkání",
+      "Osobní trest"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Pokud byl hráč varován za porušení postupu vhazování a poruší jej znovu, hrozí mu menší trest pro hráčskou lavici.",
+    "pravidlo": "Pravidlo 76.4 – Postup vhazování – centři"
+  },
+  {
+    "id": "vhazovani-08",
+    "kategorie": "vhazovani",
+    "obtiznost": "pokrocily",
+    "text": "Je centrům při vhazování dovoleno hrát puk rukou dříve, než se ho dotkne jiný hráč?",
+    "moznosti": [
+      "Ne, bez uložení trestu to dovoleno není",
+      "Ano, bez omezení",
+      "Ano, ale jen v útočném pásmu",
+      "Ano, pokud vyhrají souboj o puk"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Ani jednomu z centrů přímo se účastnících vhazování není dovoleno hrát puk rukou bez uložení trestu, dokud se puku alespoň nedotkne další hráč z jakéhokoli týmu.",
+    "pravidlo": "Pravidlo 76.5 – Zdržování hry"
+  },
+  {
+    "id": "vhazovani-09",
+    "kategorie": "vhazovani",
+    "obtiznost": "expert",
+    "text": "Hra je přerušena kvůli zranění hráče, který se nachází ve středním pásmu s pukem. Kam se bude vhazovat?",
+    "moznosti": [
+      "Na nejbližší bod pro vhazování v pásmu, kde se nacházel puk v okamžiku přerušení hry",
+      "Vždy ve středu hřiště",
+      "Vždy v obranném pásmu zraněného hráče",
+      "Na bodu, který zvolí tým zraněného hráče"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Je-li hra přerušena kvůli zraněnému hráči, vhazuje se na nejbližším bodu pro vhazování v pásmu, kde se nacházel puk v okamžiku přerušení hry.",
+    "pravidlo": "Pravidlo 8.1 – Zranění hráči"
+  },
+  {
+    "id": "vhazovani-10",
+    "kategorie": "vhazovani",
+    "obtiznost": "pokrocily",
+    "text": "Kam se vhazuje, pokud byl trest uložen bezprostředně po vstřelení branky?",
+    "moznosti": [
+      "Ve středu hřiště",
+      "V obranném pásmu provinivšího se týmu",
+      "Na modré čáře",
+      "V útočném pásmu provinivšího se týmu"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Pokud je trest uložen po vstřelení gólu, vhazovat se bude ve středu hřiště – to je jedna z výjimek z pravidla o vhazování v obranném pásmu provinivšího se týmu.",
+    "pravidlo": "Pravidlo 76.2 – Místo vhazování"
+  },
+  {
+    "id": "branky-01",
+    "kategorie": "branky",
+    "obtiznost": "zacatecnik",
+    "text": "Kolik hráčů může být maximálně zapsáno jako asistujících u jedné branky?",
+    "moznosti": [
+      "Dva",
+      "Jeden",
+      "Tři",
+      "Neomezeně"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Asistence se připíše maximálně dvěma hráčům.",
+    "pravidlo": "Pravidlo 78.3 – Připisování asistencí"
+  },
+  {
+    "id": "branky-02",
+    "kategorie": "branky",
+    "obtiznost": "pokrocily",
+    "text": "Komu se připíše asistence?",
+    "moznosti": [
+      "Hráči/hráčům (max. 2), kteří se dotkli puku před střelcem, pokud puk mezitím nehrál ani nezískal do kontroly bránící hráč",
+      "Každému hráči na ledě v okamžiku gólu",
+      "Pouze hráči, který přihrál přímo na střelu",
+      "Trenérovi podle vlastního uvážení"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Asistence se připíše hráči nebo hráčům (nejvýše dvěma), kteří se dotkli puku před střelcem gólu, pokud od té chvíle nehrál puk žádný bránící hráč ani nad ním nezískal kontrolu.",
+    "pravidlo": "Pravidlo 78.3 – Připisování asistencí"
+  },
+  {
+    "id": "branky-03",
+    "kategorie": "branky",
+    "obtiznost": "pokrocily",
+    "text": "Útočící hráč úmyslně nasměruje puk do branky jakoukoli částí těla (kromě brusle). Gól:",
+    "moznosti": [
+      "neplatí",
+      "platí vždy",
+      "platí, pokud šlo o nohu",
+      "platí, pokud se ho dotkl i brankář"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Pokud útočící hráč úmyslně zahraje puk do branky jakoukoli částí těla kromě brusle, gól nebude uznán.",
+    "pravidlo": "Pravidlo 78.5 (I) – Neuznané góly"
+  },
+  {
+    "id": "branky-04",
+    "kategorie": "branky",
+    "obtiznost": "pokrocily",
+    "text": "Hráč tečuje puk do branky bruslí, aniž by šlo o zjevné kopnutí. Gól:",
+    "moznosti": [
+      "platí a je připsán hráči, který puk tečoval",
+      "neplatí nikdy při zásahu bruslí",
+      "platí pouze pokud šlo o obránce",
+      "neplatí, tečování bruslí je vždy zakázané"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Pokud útočící hráč jakýmkoliv způsobem tečuje puk do branky bruslí nebo tělem (bez zjevného kopnutí), gól bude uznán a připsán hráči, který jej tečoval.",
+    "pravidlo": "Pravidlo 78.4 – Vstřelení gólu"
+  },
+  {
+    "id": "branky-05",
+    "kategorie": "branky",
+    "obtiznost": "zacatecnik",
+    "text": "Puk se dostane do branky po zjevném kopnutí útočícím hráčem. Gól:",
+    "moznosti": [
+      "neplatí",
+      "platí",
+      "platí jen v přesilové hře",
+      "platí, pokud šlo o brankáře soupeře"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Byl-li puk kopnut do branky použitím zjevného kopnutí, gól nebude uznán.",
+    "pravidlo": "Pravidlo 78.5 (II) – Neuznané góly"
+  },
+  {
+    "id": "branky-06",
+    "kategorie": "branky",
+    "obtiznost": "pokrocily",
+    "text": "Puk zamíří do branky přímým odrazem od rozhodčího na ledě. Gól:",
+    "moznosti": [
+      "neplatí",
+      "platí vždy",
+      "platí, pokud se rozhodčí nacházel v útočném pásmu",
+      "závisí na tom, který rozhodčí to byl"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Pokud se puk odrazí přímo od rozhodčího do branky, gól nebude uznán.",
+    "pravidlo": "Pravidlo 78.5 (III) – Neuznané góly"
+  },
+  {
+    "id": "branky-07",
+    "kategorie": "branky",
+    "obtiznost": "expert",
+    "text": "Hráč A8 přihraje hráči A9, který vystřelí na branku, brankář puk vyrazí a odražený puk pak do branky dorazí hráč A10. Komu se připíše asistence?",
+    "moznosti": [
+      "A8 i A9 – řetězec nahrávek zůstává zachován, protože puk pouze odrazil brankář, aniž by jej získal do kontroly soupeř",
+      "Pouze A9",
+      "Nikomu",
+      "Pouze A8"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Odražení puku brankářem bez získání puku do kontroly nepřerušuje řetězec nahrávek, takže asistence se připíší oběma hráčům, kteří se puku dotkli před střelcem.",
+    "pravidlo": "Pravidlo 78.3 – Připisování asistencí"
+  },
+  {
+    "id": "branky-08",
+    "kategorie": "branky",
+    "obtiznost": "expert",
+    "text": "Tým hraje v oslabení kvůli signalizované trestné výhodě soupeře. Může za této situace vstřelit gól?",
+    "moznosti": [
+      "Ne, s výjimkou situace, kdy si neprovinivší se tým sám vstřelí gól do vlastní branky",
+      "Ano, bez omezení",
+      "Ano, ale jen z přímého vhazování",
+      "Ne, nikdy, ani při vlastním gólu soupeře"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Během signalizované výhody k uložení trestu nemůže provinivší se tým vstřelit gól, s výjimkou situace, kdy neprovinivší se tým sám zahraje puk do vlastní branky.",
+    "pravidlo": "Pravidlo 78.5 (XI) – Neuznané góly"
+  },
+  {
+    "id": "branky-09",
+    "kategorie": "branky",
+    "obtiznost": "zacatecnik",
+    "text": "Kolik bodů do tabulky získá tým, který vyhraje utkání po třech dvacetiminutových třetinách (v základní hrací době)?",
+    "moznosti": [
+      "Tři body",
+      "Dva body",
+      "Jeden bod",
+      "Čtyři body"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Tým, který vstřelí větší množství gólů po třech dvacetiminutových třetinách, se stává vítězem a získává do tabulky tři body.",
+    "pravidlo": "Pravidlo 78.1 – Góly a asistence"
+  },
+  {
+    "id": "branky-10",
+    "kategorie": "branky",
+    "obtiznost": "pokrocily",
+    "text": "Kolik bodů získají vítěz a poražený, pokud o vítězi rozhodlo prodloužení nebo samostatné nájezdy?",
+    "moznosti": [
+      "Vítěz 2 body, poražený 1 bod",
+      "Vítěz 3 body, poražený 0 bodů",
+      "Oba týmy 1 bod",
+      "Vítěz 2 body, poražený 0 bodů"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Rozhodne-li o vítězi prodloužení nebo samostatné nájezdy, vítěznému týmu se připíšou dva body a poraženému týmu jeden bod.",
+    "pravidlo": "Pravidlo 78.1 – Góly a asistence"
+  },
+  {
+    "id": "brankar-01",
+    "kategorie": "brankar",
+    "obtiznost": "pokrocily",
+    "text": "Jak dlouho smí brankář držet puk v rukou, aniž by byl přímo napadán nebo pod tlakem soupeře?",
+    "moznosti": [
+      "Nejdéle 3 sekundy",
+      "Nejdéle 5 sekund",
+      "Nejdéle 8 sekund",
+      "Bez časového omezení"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Trest za zdržování hry se uloží brankáři, který drží puk rukama po dobu delší než tři sekundy a přitom není přímo napadán ani se nenachází pod tlakem soupeře.",
+    "pravidlo": "Pravidlo 67.3 (I) – Hraní puku rukou – brankář"
+  },
+  {
+    "id": "brankar-02",
+    "kategorie": "brankar",
+    "obtiznost": "expert",
+    "text": "Brankář hodí puk směrem dopředu k brance soupeře. Jaký trest hrozí?",
+    "moznosti": [
+      "Menší trest za zdržování hry",
+      "Větší trest",
+      "Osobní trest",
+      "Žádný, jde o dovolený způsob hry"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Trest za zdržování hry se uloží brankáři, který hodí puk dopředu směrem k brance soupeře.",
+    "pravidlo": "Pravidlo 67.3 (III) – Hraní puku rukou – brankář"
+  },
+  {
+    "id": "brankar-03",
+    "kategorie": "brankar",
+    "obtiznost": "pokrocily",
+    "text": "Za jakých okolností je gól neplatný kvůli kontaktu útočícího hráče s brankářem uvnitř brankoviště?",
+    "moznosti": [
+      "Pokud útočící hráč vyvolá významný kontakt s brankářem v brankovišti a je vstřelen gól",
+      "Vždy, když se útočník ocitne v brankovišti",
+      "Pouze pokud kontakt způsobí zranění",
+      "Nikdy, kontakt v brankovišti neovlivňuje platnost gólu"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Vyvolá-li útočící hráč významný kontakt s brankářem, zatímco je brankář ve svém brankovišti, a je vstřelen gól, gól nebude uznán.",
+    "pravidlo": "Pravidlo 69.3 – Kontakt uvnitř brankoviště"
+  },
+  {
+    "id": "brankar-04",
+    "kategorie": "brankar",
+    "obtiznost": "pokrocily",
+    "text": "Náhodný kontakt útočícího hráče s brankářem mimo brankoviště je dovolen, pokud:",
+    "moznosti": [
+      "útočící hráč vyvinul přiměřenou snahu se kontaktu vyhnout",
+      "brankář o kontakt sám požádá",
+      "k tomu dojde ve třetí třetině",
+      "brankář stojí zády k útočníkovi"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Náhodný kontakt je dovolen, pokud brankář hraje puk mimo brankoviště a útočící hráč vyvinul přiměřenou snahu se zbytečnému kontaktu vyhnout.",
+    "pravidlo": "Pravidlo 69.4 – Kontakt mimo brankoviště"
+  },
+  {
+    "id": "brankar-05",
+    "kategorie": "brankar",
+    "obtiznost": "expert",
+    "text": "Kam se vhazuje poté, co hlavní rozhodčí neuzná gól kvůli nedovolenému bránění brankáři (významnému kontaktu)?",
+    "moznosti": [
+      "Na nejbližší bod pro vhazování ve středním pásmu mimo útočné pásmo provinivšího se týmu",
+      "Přímo na místo, kde došlo ke kontaktu",
+      "Ve středu hřiště vždy",
+      "Na bod pro vhazování v brankovišti"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Pokaždé, když hlavní rozhodčí přeruší hru, aby neuznal gól v důsledku významného kontaktu s brankářem, vhazuje se na nejbližším bodu pro vhazování ve středním pásmu mimo útočné pásmo provinivšího se týmu.",
+    "pravidlo": "Pravidlo 69.6 – Místo vhazování"
+  },
+  {
+    "id": "brankar-06",
+    "kategorie": "brankar",
+    "obtiznost": "pokrocily",
+    "text": "Během (možného) zakázaného uvolnění se brankář nachází mimo brankoviště a jen se vrací zpět, aniž by se pokoušel hrát puk. Zakázané uvolnění:",
+    "moznosti": [
+      "bude odpískáno",
+      "nebude odpískáno",
+      "závisí na tom, kolik zbývá do konce třetiny",
+      "odpíská se jen v oslabení"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Pokud se brankář nachází mimo brankoviště v okamžiku výstřelu a pouze se vrací do brankoviště, aniž by se snažil hrát puk nebo to naznačil, zakázané uvolnění bude odpískáno.",
+    "pravidlo": "Pravidlo 81.3 – Zakázané uvolnění – brankář"
+  },
+  {
+    "id": "brankar-07",
+    "kategorie": "brankar",
+    "obtiznost": "expert",
+    "text": "Při dorážce je brankář po zákroku natlačen útočícím hráčem do branky společně s pukem. Vstřelený gól:",
+    "moznosti": [
+      "neplatí (s výjimkou situace, kdy útočníka do brankáře strčil nebo faulem přinutil bránící hráč)",
+      "platí vždy",
+      "platí, pokud se to stalo v přesilové hře",
+      "neplatí nikdy, bez výjimek"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Byl-li brankář po provedeném zákroku natlačen útočícím hráčem do branky spolu s pukem, gól nebude uznán – pokud však útočícího hráče strčil nebo fauloval bránící hráč, gól uznán být může.",
+    "pravidlo": "Pravidlo 69.7 – Dorážky a volný puk"
+  },
+  {
+    "id": "brankar-08",
+    "kategorie": "brankar",
+    "obtiznost": "pokrocily",
+    "text": "Při souboji o volný puk dojde k náhodnému kontaktu mezi brankářem a útočícím hráčem, oba se snaží puk hrát současně. Vstřelený gól v důsledku této situace:",
+    "moznosti": [
+      "platí",
+      "neplatí nikdy",
+      "platí jen mimo brankoviště",
+      "závisí na tom, kdo puk získal jako první"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Při dorážce nebo když se brankář a útočící hráč snaží současně hrát volný puk, je náhodný kontakt s brankářem dovolen a případný gól bude uznán.",
+    "pravidlo": "Pravidlo 69.7 – Dorážky a volný puk"
+  },
+  {
+    "id": "brankar-09",
+    "kategorie": "brankar",
+    "obtiznost": "expert",
+    "text": "Puk se ocitne (úmyslně či neúmyslně) pod hráčem, který je v brankovišti nebo v jeho blízkosti, a tento hráč je natlačen do branky spolu s pukem. Může takto padnout gól?",
+    "moznosti": [
+      "Ne, takový gól nemůže platit; pokud bylo přikrytí puku úmyslné, může být navíc nařízeno trestné střílení",
+      "Ano, takový gól vždy platí",
+      "Platí jen pokud šlo o obránce",
+      "Platí jen pokud brankář nezasáhl"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Ocitne-li se puk pod hráčem v brankovišti nebo v jeho blízkosti, nemůže být gólu dosaženo natlačením tohoto hráče do branky spolu s pukem; při úmyslném přikrytí puku může být navíc nařízeno trestné střílení.",
+    "pravidlo": "Pravidlo 69.7 – Dorážky a volný puk"
+  },
+  {
+    "id": "brankar-10",
+    "kategorie": "brankar",
+    "obtiznost": "pokrocily",
+    "text": "Kdo rozhoduje o tom, zda šlo o nedovolené bránění brankáři?",
+    "moznosti": [
+      "Výhradně posouzení hlavního rozhodčího na ledě, případně přezkoumatelné zkoumáním videa nebo trenérskou výzvou",
+      "Pouze čárový rozhodčí",
+      "Brankář sám svým hlášením",
+      "Kapitán týmu"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Pravidlo o nedovoleném bránění brankáři se uplatňuje výhradně na základě posouzení hlavního rozhodčího, může však podléhat zkoumání videa nebo trenérské výzvě.",
+    "pravidlo": "Pravidlo 69.1 – Nedovolené bránění brankáři"
+  },
+  {
+    "id": "brankar-11",
+    "kategorie": "brankar",
+    "obtiznost": "pokrocily",
+    "text": "Trest uložený brankáři (jakéhokoli druhu) odpykává:",
+    "moznosti": [
+      "jiný hráč jeho týmu, který byl na ledě v okamžiku přerušení hry, určený trenérem prostřednictvím kapitána",
+      "sám brankář na trestné lavici",
+      "kterýkoli hráč mimo led vybraný náhodně",
+      "nikdo, trest se pouze eviduje bez odpykání"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Brankář sám tresty na trestné lavici neodpykává – odpykává je jiný hráč jeho týmu, který byl na ledě v okamžiku přerušení hry a kterého určí trenér prostřednictvím kapitána.",
+    "pravidlo": "Pravidlo 22.2 – Osobní trest – brankář"
+  },
+  {
+    "id": "brankar-12",
+    "kategorie": "brankar",
+    "obtiznost": "pokrocily",
+    "text": "Je zraněnému brankáři nebo náhradnímu brankáři, který nastupuje kvůli jeho zranění, poskytnut čas na rozcvičení navíc?",
+    "moznosti": [
+      "Ne, zraněnému ani náhradnímu brankáři se neposkytuje čas navíc",
+      "Ano, vždy 5 minut",
+      "Ano, pokud o to požádá trenér",
+      "Ano, ale jen v play off"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Zraněnému brankáři nebude poskytnut žádný čas navíc pro účely návratu do hry a stejně tak se žádný čas navíc neposkytuje náhradnímu brankáři.",
+    "pravidlo": "Pravidlo 8.2 – Zranění brankáři"
+  },
+  {
+    "id": "ruzne-01",
+    "kategorie": "ruzne",
+    "obtiznost": "pokrocily",
+    "text": "Střídající hráč vstoupí na led dříve, než je jeho odcházející spoluhráč ve vzdálenosti 1,50 m od hráčské lavice, čímž tým zjevně získá na ledě více hráčů. Jaký trest hrozí?",
+    "moznosti": [
+      "Menší trest pro hráčskou lavici za „příliš mnoho hráčů na led“",
+      "Osobní trest kapitánovi",
+      "Trestné střílení bez ohledu na okolnosti",
+      "Žádný trest, pokud k tomu dojde neúmyslně"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Vstoupí-li střídající hráč na led dříve, než se jeho spoluhráč dostane do vzdálenosti 1,50 m od hráčské lavice, může být uložen menší trest pro hráčskou lavici za „příliš mnoho hráčů na led“.",
+    "pravidlo": "Pravidlo 74.1 – Příliš mnoho hráčů na led"
+  },
+  {
+    "id": "ruzne-02",
+    "kategorie": "ruzne",
+    "obtiznost": "pokrocily",
+    "text": "Tým se dopustí přestupku „příliš mnoho hráčů na led“ a před přerušením hry k uložení trestu stihne vstřelit branku. Co se stane?",
+    "moznosti": [
+      "Gól neplatí a uloží se trest za příliš mnoho hráčů na led",
+      "Gól platí a trest se neuloží",
+      "Gól platí, ale trest se přesto uloží",
+      "Nastane trestné střílení"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Vstřelí-li provinivší se tým gól dříve, než rozhodčí přeruší hru, aby uložil menší trest pro hráčskou lavici, gól nebude uznán a bude uložen trest za „příliš mnoho hráčů na led“.",
+    "pravidlo": "Pravidlo 74.2 – Menší trest pro hráčskou lavici"
+  },
+  {
+    "id": "ruzne-03",
+    "kategorie": "ruzne",
+    "obtiznost": "expert",
+    "text": "Menší trest pro hráčskou lavici za „úmyslné nedovolené střídání“ (příliš mnoho hráčů) nelze v základní hrací době odpykat v plné délce, nebo k přestupku dojde v prodloužení. Co se nařídí?",
+    "moznosti": [
+      "Trestné střílení",
+      "Dvojitý menší trest",
+      "Větší trest",
+      "Osobní trest kapitánovi"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Nelze-li menší trest pro hráčskou lavici za úmyslné nedovolené střídání odpykat v plné délce v základní hrací době, nebo dojde-li k přestupku v prodloužení, nařídí se proti provinivšímu se týmu trestné střílení.",
+    "pravidlo": "Pravidlo 74.4 – Úmyslné nedovolené střídání"
+  },
+  {
+    "id": "ruzne-04",
+    "kategorie": "ruzne",
+    "obtiznost": "zacatecnik",
+    "text": "Hráč odcházející z ledu při střídání to musí učinit:",
+    "moznosti": [
+      "přes svou hráčskou lavici, jiný východ z hřiště není dovolen",
+      "kterýmkoli nejbližším východem",
+      "přes trestnou lavici",
+      "přes střed hřiště"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Hráč odcházející z ledu v průběhu hry tak musí učinit přes svou hráčskou lavici, a ne jiným východem z hřiště.",
+    "pravidlo": "Pravidlo 74.1 – Příliš mnoho hráčů na led"
+  },
+  {
+    "id": "ruzne-05",
+    "kategorie": "ruzne",
+    "obtiznost": "pokrocily",
+    "text": "Za jakých podmínek smí hráči střídat kdykoli během hry z hráčské lavice?",
+    "moznosti": [
+      "Odcházející hráč se musí nacházet do 1,50 m od své hráčské lavice a být mimo hru předtím, než je střídání provedeno",
+      "Kdykoli bez jakéhokoli omezení",
+      "Pouze při přerušení hry",
+      "Pouze pokud to povolí rozhodčí signálem"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Hráči mohou střídat z hráčské lavice kdykoli během hry za předpokladu, že hráč opouštějící led je do 1,50 m od hráčské lavice a je mimo hru předtím, než je střídání provedeno.",
+    "pravidlo": "Pravidlo 74.1 – Příliš mnoho hráčů na led"
+  },
+  {
+    "id": "ruzne-06",
+    "kategorie": "ruzne",
+    "obtiznost": "expert",
+    "text": "Hráč si během hry poprvé nesportovně sedne bruslemi na mantinel. Co se stane?",
+    "moznosti": [
+      "Rozhodčí udělí jeho týmu varování; při dalším provinění stejného týmu dostane provinivší se hráč menší trest",
+      "Rovnou je potrestán menším trestem",
+      "Rovnou je potrestán osobním trestem",
+      "Žádný postih, pravidla toto neřeší"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Rozhodčí udělí provinivšímu se týmu jedno varování ohledně sezení na mantinelu; po tomto varování se za další provinění uloží menší trest.",
+    "pravidlo": "Pravidlo 75.2 (IV) – Nesportovní chování"
+  },
+  {
+    "id": "ruzne-07",
+    "kategorie": "ruzne",
+    "obtiznost": "expert",
+    "text": "Hráč se úmyslně svlékne z dresu ještě před zapojením se do šarvátky. Jaký trest mu hrozí?",
+    "moznosti": [
+      "Menší trest za nesportovní chování a osobní trest do konce utkání",
+      "Pouze menší trest",
+      "Pouze osobní trest do konce utkání",
+      "Žádný trest, pokud ke rvačce nedojde"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Hráči, který si úmyslně sundá dres před zapojením se do šarvátky, se uloží menší trest za nesportovní chování a osobní trest do konce utkání.",
+    "pravidlo": "Pravidlo 75.2 (V) – Nesportovní chování"
+  },
+  {
+    "id": "ruzne-08",
+    "kategorie": "ruzne",
+    "obtiznost": "pokrocily",
+    "text": "Hráč chytí puk ze vzduchu rukou a s pukem v ruce pokračuje ve hře, aby se vyhnul zákroku soupeře, místo aby jej okamžitě srazil nebo upustil na led. Jaký trest hrozí?",
+    "moznosti": [
+      "Menší trest",
+      "Větší trest",
+      "Osobní trest",
+      "Dvojitý menší trest"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Hráči se uloží menší trest za sevření puku rukou, pokud puk chytí a jede s ním, aby se vyhnul zákroku protihráče nebo nad ním získal územní výhodu.",
+    "pravidlo": "Pravidlo 67.2 (I) – Hraní puku rukou – hráč v poli"
+  },
+  {
+    "id": "ruzne-09",
+    "kategorie": "ruzne",
+    "obtiznost": "pokrocily",
+    "text": "Hráč přihraje spoluhráči rukou v útočném pásmu tak, že mu tím pomůže k výhodě. Co se stane?",
+    "moznosti": [
+      "Hra se přeruší; přihrávka rukou v obranném pásmu hráče přerušení hry naopak nezpůsobí",
+      "Hra se vždy považuje za dovolenou",
+      "Vždy se uloží menší trest",
+      "Vždy se uloží dvojitý menší trest"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Hra se přeruší, pokud hráč nasměroval puk rukou spoluhráči a umožnil tak svému týmu získat výhodu; přihrávka rukou v obranném pásmu hráče hru nepřeruší.",
+    "pravidlo": "Pravidlo 79.1, 79.2 – Přihrávka rukou"
+  },
+  {
+    "id": "ruzne-10",
+    "kategorie": "ruzne",
+    "obtiznost": "expert",
+    "text": "V posledních pěti minutách třetí třetiny (nebo v prodloužení) jsou ve stejném přerušení hry uloženy menší trest hráči týmu A a větší trest hráči týmu B. Jak se postupuje?",
+    "moznosti": [
+      "Rozdíl (např. tříminutový) se okamžitě odpyká jako větší trest",
+      "Oba tresty se ruší",
+      "Nastává trestné střílení",
+      "Oba hráči jdou na trestnou lavici na dobu trvání většího trestu"
+    ],
+    "spravne": [
+      0
+    ],
+    "vysvetleni": "Je-li v posledních pěti minutách základní hrací doby nebo v prodloužení ve stejném přerušení hry uložen menší trest jednomu hráči a větší trest hráči soupeře, rozdíl mezi jejich délkou se okamžitě odpyká jako větší trest.",
+    "pravidlo": "Pravidlo 19.3 – Posledních pět minut a prodloužení"
+  },
+  {
+    "id": "ofsajd-15",
+    "kategorie": "ofsajd",
+    "obtiznost": "expert",
+    "text": "Ve kterých z následujících situací se zakázané uvolnění NEODPÍSKÁ? (více správných)",
+    "moznosti": [
+      "Puk se před přechodem brankové čáry dotkne brankáře neprovinivšího se týmu",
+      "Puk vystřelil hráč týmu hrajícího v oslabení",
+      "Puk přejde brankovou čáru přímo z vhazování",
+      "Puk se cestou odrazí od rozhodčího ve středním pásmu"
+    ],
+    "spravne": [
+      0,
+      1,
+      2
+    ],
+    "vysvetleni": "Dotyk brankáře neprovinivšího se týmu, hra v oslabení i puk zahraný přímo z vhazování zakázané uvolnění ruší. Odraz puku od rozhodčího naopak případné zakázané uvolnění automaticky neruší.",
+    "pravidlo": "Pravidlo 81.1, 81.5, 81.6 – Zakázané uvolnění"
+  },
+  {
+    "id": "branky-11",
+    "kategorie": "branky",
+    "obtiznost": "pokrocily",
+    "text": "Ve kterých případech NEBUDE gól uznán? (více správných)",
+    "moznosti": [
+      "Puk byl do branky úmyslně zahrán částí těla útočícího hráče (kromě brusle)",
+      "Puk byl do branky kopnut použitím zjevného kopnutí",
+      "Puk se do branky odrazil přímo od rozhodčího",
+      "Útočící hráč tečoval puk do branky bruslí, aniž by šlo o kopnutí"
+    ],
+    "spravne": [
+      0,
+      1,
+      2
+    ],
+    "vysvetleni": "Úmyslné zahrání tělem, zjevné kopnutí i odraz přímo od rozhodčího vedou k neuznání gólu. Tečování bruslí bez zjevného kopnutí je naopak dovolené a gól se uzná.",
+    "pravidlo": "Pravidlo 78.4, 78.5 – Góly a neuznané góly"
+  },
+  {
+    "id": "tymy-11",
+    "kategorie": "tymy",
+    "obtiznost": "pokrocily",
+    "text": "Co podle pravidel platí o kapitánovi týmu? (více správných)",
+    "moznosti": [
+      "Jako jediný má právo projednat s hlavním rozhodčím otázky výkladu pravidel",
+      "Nosí písmeno „C“ vysoké přibližně 8 cm v kontrastní barvě",
+      "Funkci kapitána nesmí vykonávat brankář",
+      "Tým smí svého kapitána v průběhu utkání kdykoli změnit"
+    ],
+    "spravne": [
+      0,
+      1,
+      2
+    ],
+    "vysvetleni": "Kapitán má jako jediný právo projednávat výklad pravidel, nosí „C“ o výšce přibližně 8 cm a brankář ani hrající trenér funkci zastávat nesmí. Tým naopak nesmí kapitána v průběhu utkání měnit — při jeho vyloučení či zranění přebírá povinnosti zástupce.",
+    "pravidlo": "Pravidlo 6.1 – Kapitán"
+  },
+  {
+    "id": "vhazovani-11",
+    "kategorie": "vhazovani",
+    "obtiznost": "expert",
+    "text": "Trest je uložen tak, že se na časomíru zadá trest jen jednomu týmu. Kdy se NEVHAZUJE v obranném pásmu provinivšího se týmu? (více správných)",
+    "moznosti": [
+      "Trest byl uložen po vstřelení gólu",
+      "Trest byl uložen na konci nebo začátku hrací části",
+      "Byl potrestán bránící tým a útočníci během šarvátky přejeli za úroveň vnějších vrcholů kruhů pro vhazování",
+      "Trest byl uložen v prodloužení"
+    ],
+    "spravne": [
+      0,
+      1,
+      2
+    ],
+    "vysvetleni": "Pravidlo zná právě tři výjimky: trest po gólu a trest na konci/začátku části (vhazuje se ve středu hřiště) a přejetí útočníků při šarvátce za úroveň vnějších vrcholů kruhů (vhazuje se ve středním pásmu). Prodloužení mezi výjimky nepatří.",
+    "pravidlo": "Pravidlo 76.2 – Místo vhazování"
+  },
+  {
+    "id": "brankar-13",
+    "kategorie": "brankar",
+    "obtiznost": "expert",
+    "text": "Za které jednání se brankáři uloží trest za zdržování hry? (více správných)",
+    "moznosti": [
+      "Drží puk rukama déle než tři sekundy, aniž by byl napadán nebo pod tlakem",
+      "Hodí puk dopředu směrem k brance soupeře",
+      "Úmyslně drží puk způsobem, který způsobí zbytečné přerušení hry",
+      "Chytí puk do rukavice a okamžitě jej upustí na led"
+    ],
+    "spravne": [
+      0,
+      1,
+      2
+    ],
+    "vysvetleni": "Držení puku déle než tři sekundy bez tlaku soupeře, hození puku dopředu k brance soupeře i úmyslné držení puku působící zbytečné přerušení se trestají jako zdržování hry. Chycení puku s okamžitým upuštěním na led je naopak dovolené.",
+    "pravidlo": "Pravidlo 67.3 – Hraní puku rukou – brankář"
+  },
+  {
+    "id": "brankar-14",
+    "kategorie": "brankar",
+    "obtiznost": "expert",
+    "text": "Kdy nebude gól uznán z důvodu nedovoleného bránění brankáři? (více správných)",
+    "moznosti": [
+      "Útočící hráč vyvolá významný kontakt s brankářem, který je ve svém brankovišti",
+      "Útočící hráč zaujme významnou pozici v brankovišti, čímž brání brankáři ve výhledu",
+      "Útočící hráč vyvolá úmyslný kontakt s brankářem mimo brankoviště",
+      "Útočící hráč se nachází v brankovišti, ale brankáři nijak nebrání v pohybu ani ve výhledu"
+    ],
+    "spravne": [
+      0,
+      1,
+      2
+    ],
+    "vysvetleni": "Pouhá přítomnost útočníka v brankovišti sama o sobě o platnosti gólu nerozhoduje — gól neplatí až tehdy, když útočník omezí brankáři možnost hájit branku nebo vyvolá úmyslný či významný kontakt.",
+    "pravidlo": "Pravidlo 69.1, 69.3, 69.4 – Nedovolené bránění brankáři"
+  },
+  {
+    "id": "tresty-17",
+    "kategorie": "tresty",
+    "obtiznost": "pokrocily",
+    "text": "Které tresty lze podle pravidla o vražení na mantinel uložit? (více správných)",
+    "moznosti": [
+      "Menší trest",
+      "Větší trest",
+      "Větší trest a automatický osobní trest do konce utkání",
+      "Trestné střílení"
+    ],
+    "spravne": [
+      0,
+      1,
+      2
+    ],
+    "vysvetleni": "Pravidlo o vražení na mantinel zná menší trest, větší trest i větší trest s automatickým osobním trestem do konce utkání — podle míry prudkosti nárazu a bezohlednosti. Trestné střílení toto pravidlo nezná.",
+    "pravidlo": "Pravidlo 41.2, 41.3, 41.4 – Vražení na mantinel"
+  },
+  {
+    "id": "ofsajd-16",
+    "kategorie": "ofsajd",
+    "obtiznost": "pokrocily",
+    "text": "Co platí při posuzování ofsajdu? (více správných)",
+    "moznosti": [
+      "Rozhoduje pozice hráčových bruslí, nikoli jeho hole",
+      "Hráč není mimo hru, pokud je jakoukoli bruslí v kontaktu s modrou čárou",
+      "Ofsajd nenastane dříve, než puk zcela přejde vzdálenější hranu modré čáry",
+      "Hráč, který má puk pod kontrolou a překoná čáru dříve než puk, je vždy v ofsajdu"
+    ],
+    "spravne": [
+      0,
+      1,
+      2
+    ],
+    "vysvetleni": "Rozhoduje pozice bruslí, kontakt brusle s modrou čárou hráče z ofsajdu vyjímá a ofsajd nikdy nenastane dřív, než puk zcela přejde vzdálenější hranu čáry. Hráč, který získal puk do držení a pod kontrolu dřív, než jeho brusle překonaly čáru, v ofsajdu není.",
+    "pravidlo": "Pravidlo 83.1 – Ofsajd"
+  }
+]

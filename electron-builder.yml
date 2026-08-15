@@ -1,0 +1,13 @@
+appId: cz.pravidla.hokej
+productName: Pravidla hokeje
+directories:
+  output: release
+files:
+  - dist/**/*
+  - dist-electron/**/*
+win:
+  target:
+    - nsis
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
