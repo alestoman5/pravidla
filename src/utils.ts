@@ -22,3 +22,28 @@ export function formatujDatum(iso: string): string {
 export function noveId(): string {
   return `${Date.now()}-${Math.random().toString(36).slice(2, 9)}`;
 }
+
+/**
+ * Vybere `pocet` prvků z pole bez opakování, s pravděpodobností výběru úměrnou váze
+ * daného prvku (vyšší váha = větší šance na vybrání dřív). Použito pro preferenci
+ * „málo viděné" / „chybované" otázky v konfiguraci testu.
+ */
+export function vazenyVyber<T>(polozky: T[], vaha: (p: T) => number, pocet: number): T[] {
+  const zbyva = polozky.map((p) => ({ p, v: Math.max(vaha(p), 0.0001) }));
+  const vybrane: T[] = [];
+  while (vybrane.length < pocet && zbyva.length > 0) {
+    const soucet = zbyva.reduce((s, x) => s + x.v, 0);
+    let r = Math.random() * soucet;
+    let idx = zbyva.length - 1;
+    for (let i = 0; i < zbyva.length; i++) {
+      r -= zbyva[i].v;
+      if (r <= 0) {
+        idx = i;
+        break;
+      }
+    }
+    vybrane.push(zbyva[idx].p);
+    zbyva.splice(idx, 1);
+  }
+  return vybrane;
+}

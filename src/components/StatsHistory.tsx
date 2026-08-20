@@ -1,9 +1,13 @@
 import { useEffect, useMemo, useState } from 'react';
 import { KATEGORIE } from '../data/categories';
+import otazkyData from '../data/questions.json';
 import { progressStore } from '../store/progress';
 import { ProgressChart } from './ProgressChart';
-import type { Pokus } from '../types';
+import type { Otazka, Pokus } from '../types';
 import { formatujDatum } from '../utils';
+
+const VSECHNY_OTAZKY = otazkyData as Otazka[];
+const KATEGORIE_PODLE_ID = new Map(VSECHNY_OTAZKY.map((o) => [o.id, o.kategorie]));
 
 function nazevKategorie(klic: string): string {
   if (klic === 'vse') return 'Všechny kategorie';
@@ -26,8 +30,9 @@ export function StatsHistory() {
     const poKategoriich = new Map<string, { spravne: number; celkem: number }>();
     for (const pokus of historie) {
       for (const odp of pokus.odpovedi) {
-        // Kategorii odvodíme z ID otázky (prefix před pomlčkou odpovídá klíči kategorie).
-        const klic = odp.otazkaId.split('-')[0];
+        // Kategorie se dohledá přímo v bance otázek — ID mají prefix jen informativní,
+        // některé klíče kategorií (části pravidel) obsahují pomlčku.
+        const klic = KATEGORIE_PODLE_ID.get(odp.otazkaId) ?? 'neznama';
         const zaznam = poKategoriich.get(klic) ?? { spravne: 0, celkem: 0 };
         zaznam.celkem += 1;
         if (odp.spravne) zaznam.spravne += 1;

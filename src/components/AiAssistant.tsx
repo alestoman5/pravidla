@@ -60,7 +60,7 @@ export function AiAssistant({ maApiKlic, onOtevritNastaveni }: Props) {
           <h2>AI asistent</h2>
           <p className="podnadpis">
             Zeptej se vlastními slovy na jakoukoli situaci nebo pravidlo. Asistent hledá odpověď
-            přímo ve znění pravidel 2025/26 a uvádí, ze kterého pravidla vychází.
+            přímo ve znění pravidel 2026/27 a uvádí, ze kterého pravidla vychází.
           </p>
           <div className="prazdny-stav">
             <p>Pro použití asistenta je potřeba API klíč od Anthropic.</p>
@@ -78,7 +78,7 @@ export function AiAssistant({ maApiKlic, onOtevritNastaveni }: Props) {
       <div className="panel panel-chat">
         <h2>AI asistent</h2>
         <p className="podnadpis">
-          Zeptej se vlastními slovy. Odpovědi vycházejí ze znění pravidel 2025/26 a odkazují na
+          Zeptej se vlastními slovy. Odpovědi vycházejí ze znění pravidel 2026/27 a odkazují na
           konkrétní pravidlo — vždy si je u sporných situací ověř v plném znění.
         </p>
 

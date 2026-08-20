@@ -59,7 +59,7 @@ export default function App() {
   return (
     <div className="app">
       <header className="hlavicka">
-        <h1>🏒 Pravidla hokeje 2025/26</h1>
+        <h1>🏒 Pravidla hokeje 2026/27</h1>
         <nav>
           {ZALOZKY.map((z) => (
             <button

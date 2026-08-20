@@ -59,7 +59,7 @@ function createWindow() {
     height: 860,
     minWidth: 900,
     minHeight: 640,
-    title: 'Pravidla hokeje 2025/26',
+    title: 'Pravidla hokeje 2026/27',
     autoHideMenuBar: true,
     webPreferences: {
       preload: path.join(__dirname, 'preload.js'),
@@ -103,7 +103,7 @@ ipcMain.handle('settings:clearKey', () => {
   return { maApiKlic: false };
 });
 
-const SYSTEM_PROMPT = `Jsi asistent pro rozhodčí a hráče ledního hokeje. Odpovídáš na dotazy o pravidlech ledního hokeje 2025/26 (IIHF, český překlad ČSLH).
+const SYSTEM_PROMPT = `Jsi asistent pro rozhodčí a hráče ledního hokeje. Odpovídáš na dotazy o pravidlech ledního hokeje 2026/27 (IIHF, český překlad ČSLH).
 
 Odpovídej výhradně na základě úryvků pravidel, které dostaneš v uživatelské zprávě. Postupuj takto:
 - Odpověz česky, stručně a konkrétně — nejdřív přímá odpověď, potom případné upřesnění.
@@ -140,7 +140,7 @@ ipcMain.handle(
           ...historie.map((z) => ({ role: z.role, content: z.text })),
           {
             role: 'user' as const,
-            content: `Úryvky z pravidel ledního hokeje 2025/26:\n\n${kontext}\n\n---\n\nDotaz: ${dotaz}`,
+            content: `Úryvky z pravidel ledního hokeje 2026/27:\n\n${kontext}\n\n---\n\nDotaz: ${dotaz}`,
           },
         ],
       });

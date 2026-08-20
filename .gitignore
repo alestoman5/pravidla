@@ -4,6 +4,9 @@ dist-electron/
 release/
 *.log
 
+# Referenční materiál (vzory otázek/layoutu, zdrojové PDF pravidel) — není součástí appky.
+otázky/
+
 # Plné znění pravidel je strojově vytěžené z copyrightovaného PDF (IIHF/ČSLH)
 # a nešíří se s repem — viz README, sekce "Aktualizace pravidel na novou sezónu".
 src/data/rulebook.json

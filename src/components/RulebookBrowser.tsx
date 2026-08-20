@@ -18,7 +18,7 @@ export function RulebookBrowser({ vychoziDotaz = '' }: Props) {
   return (
     <div className="karta karta-siroka">
       <div className="panel">
-        <h2>Pravidla ledního hokeje 2025/26</h2>
+        <h2>Pravidla ledního hokeje 2026/27</h2>
         <p className="podnadpis">
           Kompletní znění — {POCET_PRAVIDEL} pravidel, {POCET_SECI_TEXT(POCET_SEKCI)}. Funguje offline.
         </p>

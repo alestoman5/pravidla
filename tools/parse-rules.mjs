@@ -11,7 +11,7 @@ const lines = raw.split(/\r?\n/);
 function jeSmeti(line) {
   const t = line.trim();
   if (!t) return true;
-  if (/^PRAVIDLA LEDNÍHO HOKEJE 2025\/26/.test(t)) return true;
+  if (/^PRAVIDLA LEDNÍHO HOKEJE \d{4}\/\d{2}/.test(t)) return true;
   if (/^OBSAH\s*$/.test(t)) return true;
   if (/^ČÁST \d+\s*$/.test(t)) return true;
   if (/^\d{1,3}\s*$/.test(t)) return true;

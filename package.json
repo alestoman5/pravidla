@@ -1,7 +1,7 @@
 {
   "name": "pravidla-hokej",
   "version": "0.1.0",
-  "description": "Aplikace na učení a testování z pravidel ledního hokeje 2025/26",
+  "description": "Aplikace na učení a testování z pravidel ledního hokeje 2026/27",
   "main": "dist-electron/main.js",
   "private": true,
   "license": "MIT",
