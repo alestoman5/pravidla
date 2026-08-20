@@ -1,6 +1,7 @@
 # Pravidla hokeje 2026/27
 
 Desktopová appka (Electron + React + TypeScript) na učení a testování z pravidel ledního hokeje 2026/27 (IIHF / ČSLH) — obdoba [arbitro.app](https://arbitro.app/), ale offline a bez účtu.
+Kompaktní verze dostupná na : https://www.rozhodci.fun/pravidla
 
 ## Funkce
 
