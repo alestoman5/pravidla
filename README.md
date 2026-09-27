@@ -3,6 +3,8 @@
 Desktopová appka (Electron + React + TypeScript) na učení a testování z pravidel ledního hokeje 2026/27 (IIHF / ČSLH) — obdoba [arbitro.app](https://arbitro.app/), ale offline a bez účtu.
 Kompaktní verze dostupná na : https://www.rozhodci.fun/pravidla
 
+![Konfigurace nového testu](docs/screenshots/setup.png)
+
 ## Funkce
 
 **Kvíz**
@@ -29,6 +31,14 @@ Kompaktní verze dostupná na : https://www.rozhodci.fun/pravidla
 - Zeptáš se vlastními slovy na situaci nebo pravidlo
 - Appka najde relevantní pasáže v pravidlech a pošle je modelu jako kontext, takže odpověď vychází ze skutečného znění a odkazuje na číslo pravidla
 - Klíč se ukládá jen lokálně, zašifrovaný operačním systémem (`safeStorage`), a do rendereru se nikdy nedostane — API se volá z hlavního procesu
+
+## Ukázky
+
+| Otázka na herní situaci s vysvětlením | Otázka na souběžné tresty (krácení) |
+| --- | --- |
+| ![Zodpovězená otázka se zvýrazněnou správnou a chybnou odpovědí a vysvětlením](docs/screenshots/situace-zpetna-vazba.png) | ![Otázka s tabulkou trestů obou týmů](docs/screenshots/kraceni-otazka.png) |
+| **Rozbor výsledků** | **Statistiky** |
+| ![Výsledek testu s rozbalenou chybnou odpovědí a odkazem na pravidlo](docs/screenshots/vysledek-rozbor.png) | ![Graf vývoje úspěšnosti a úspěšnost podle kategorií](docs/screenshots/statistiky.png) |
 
 ## Vývoj
 
